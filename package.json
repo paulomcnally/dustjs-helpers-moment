@@ -1,0 +1,32 @@
+{
+  "name": "dustjs-helpers-moment",
+  "version": "0.0.1",
+  "author": {
+    "name": "Paulo McNally"
+  },
+  "homepage": "https://github.com/paulomcnally/dustjs-helpers-moment",
+  "description": "Helpers Moment.js for dustjs-linkedin package",
+  "main": "./lib/dustjs-helpers-moment",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulomcnally/dustjs-helpers-moment.git"
+  },
+  "keywords": [
+    "templates",
+    "views",
+    "helpers",
+    "dust",
+    "dustjs",
+    "moment",
+    "momentjs",
+    "date",
+    "datetime"
+  ],
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.8"
+  },
+  "dependencies": {
+    "moment": "2.8.3"
+  }
+}
