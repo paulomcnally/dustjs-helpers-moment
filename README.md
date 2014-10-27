@@ -5,7 +5,7 @@ Helpers Moment.js for dustjs-linkedin package
 
 [![KrakenJS Logo](http://krakenjs.com/img/kraken.svg)](http://krakenjs.com/)
 
-#Install dependencie
+#Install dependence
 
     npm install dustjs-helpers-moment --save
 
